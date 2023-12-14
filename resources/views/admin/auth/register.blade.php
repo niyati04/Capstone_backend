@@ -30,7 +30,7 @@
                 <div class="login-content">
                     <div class="login-userset">
                         <div class="login-logo">
-                            <img src="{{ asset('assets/img/company_logo/Fulllogotr2.png') }}" alt="img">
+                            <img src="{{ asset('assets/img/company_logo/tee_palette.png') }}" alt="img">
                         </div>
                         <div class="login-userheading">
                             <h3>Create an Account</h3>

@@ -11,7 +11,7 @@
     <meta name="robots" content="noindex, nofollow">
     <title>{{ config('app.name', 'Laravel') }} - Login</title>
 
-    <link rel="shortcut icon" type="image/x-icon" href="{{ asset('assets/img/company_logo/Icon.png') }}">
+    <link rel="shortcut icon" type="image/x-icon" href="{{ asset('assets/img/company_logo/tee_palette.png') }}">
 
     <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}">
 
